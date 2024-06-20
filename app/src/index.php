@@ -10,6 +10,7 @@
 </head>
 
 <body>
+	<?php get_header(); ?>
 
 </body>
 
@@ -20,7 +21,6 @@
 
 <!-- !!!!!!!!!!!    YOU CAN CHOOSE ONE OF THIS VARIANTS !!!!!!!!!!!!!!-->
 
-<?php // get_header(); ?>
 
 <!-- <main>
 	<div class="wrapper-section">

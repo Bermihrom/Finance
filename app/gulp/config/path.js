@@ -24,7 +24,7 @@ export const path = {
   RootPath: ROOT_PATH,
   proxy: [
     `http://impex-rombt/`,
-    `http://web/impexmash/`,
+    `http://web-mike/Finance/`,
     // `http://web/impex-rombt/`,
   ],
 

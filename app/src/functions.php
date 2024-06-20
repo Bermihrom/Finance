@@ -1,8 +1,8 @@
 <?php
 
 
-require_once get_template_directory() . '/inc/functions/class-tgm-plugin-activation.php';
-require_once get_template_directory() . '/inc/Redux/redux-options.php';
+// require_once get_template_directory() . '/inc/functions/class-tgm-plugin-activation.php';
+// require_once get_template_directory() . '/inc/Redux/redux-options.php';
 require_once get_template_directory() . '/inc/functions/general-front.php';
 
 // require_once get_template_directory() . '/inc/functions/comment_default.php';
