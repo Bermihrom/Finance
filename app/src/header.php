@@ -18,7 +18,7 @@
 	<?php wp_body_open(); ?>
 
 	<div class="rmbt-page-wrap">
-		<div class="header-wrap">
+		<div class="header-wrap wrap">
 			<div class="header">
 				<div class="header-logo">
 					<img src="<?php echo get_template_directory_uri() ?>/assets/img/icons/logo-header.jpg" alt="#" class="header-logo-img">

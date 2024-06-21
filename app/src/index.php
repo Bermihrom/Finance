@@ -10,8 +10,44 @@
 </head>
 
 <body>
-	<?php get_header(); ?>
-
+	<?php get_header() ?>
+	<div class="block-1-wr wrap">
+		<div class="block-1">
+			<p class="block-1-title">Discover Your <span class="block-1-title-marked">Perfect Rental</span></p>
+			<p class="block-1-subtitle">Rent Cars, Houses, and Items in Just a Few Clicks</p>
+			<div class="block-1-buttons">
+				<button class="block-1-buttons-b button marked-button">Places</button>
+				<button class="block-1-buttons-b button">Rides</button>
+				<button class="block-1-buttons-b button">Things</button>
+			</div>
+			<div class="block-1-form">
+				<form action="#" class="block-1-form-content">
+					<div class="block-1-form-content-input">
+						<svg  class="block-1-form-content-input-icon">
+							<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#search-grey"></use>
+						</svg>
+						<input type="text" class="block-1-form-content-input-in" placeholder="Search for cars, houses, and more..">
+					</div>
+					<div class="block-1-form-content-line"></div>
+					<div class="block-1-form-content-select">
+						<svg  class="block-1-form-content-select-icon">
+							<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#map-pin"></use>
+						</svg>
+						<select class="block-1-form-content-in-select-sel" onclick = "this.children[0].remove()">
+							<option disabled selected>Select Location</option>
+						</select>
+					</div>
+					<div class="block-1-form-content-b-div">
+						<button class="block-1-form-content-b button">
+							<svg  class="block-1-form-content-b-icon">
+								<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#search-white"></use>
+							</svg>
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
 </body>
 
 </html>
