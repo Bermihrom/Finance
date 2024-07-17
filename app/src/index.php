@@ -138,27 +138,31 @@
 						<div class="block-3-content-card-image-rent button">For Rent</div>
 					</div>
 					<div class="block-3-content-card-info">
-						<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
-						<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
-						<div class="block-3-content-card-contain">
-							<p class="block-3-content-card-contain-text">3 Bedrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2 Bathrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2500 Square FT</p>
+						<div class="block-3-content-card-info-wrap">
+							<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
+							<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
+							<div class="block-3-content-card-contain">
+								<p class="block-3-content-card-contain-text">3 Bedrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2 Bathrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2500 Square FT</p>
+							</div>
 						</div>
 						<div class="block-3-content-info">
-							<div class="block-3-content-info-avatar">
-								<img src="" alt="">
-							</div>
-							<div class="block-3-content-info-text">
-								<p class="block-3-content-info-text-name">Anne Liza</p>
-								<p class="block-3-content-info-text-job">Property Seller</p>
-							</div>
-							<div class="block-3-content-like">
-								<svg  class="block-3-content-like-icon">
-									<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
-								</svg>
+							<div class="block-3-content-info-wrap">
+								<div class="block-3-content-info-avatar">
+									<img src="" alt="">
+								</div>
+								<div class="block-3-content-info-text">
+									<p class="block-3-content-info-text-name">Anne Liza</p>
+									<p class="block-3-content-info-text-job">Property Seller</p>
+								</div>
+								<div class="block-3-content-like">
+									<svg  class="block-3-content-like-icon">
+										<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
+									</svg>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -168,27 +172,31 @@
 						<div class="block-3-content-card-image-rent button">For Rent</div>
 					</div>
 					<div class="block-3-content-card-info">
-						<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
-						<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
-						<div class="block-3-content-card-contain">
-							<p class="block-3-content-card-contain-text">3 Bedrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2 Bathrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2500 Square FT</p>
+						<div class="block-3-content-card-info-wrap">
+							<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
+							<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
+							<div class="block-3-content-card-contain">
+								<p class="block-3-content-card-contain-text">3 Bedrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2 Bathrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2500 Square FT</p>
+							</div>
 						</div>
 						<div class="block-3-content-info">
-							<div class="block-3-content-info-avatar">
-								<img src="" alt="">
-							</div>
-							<div class="block-3-content-info-text">
-								<p class="block-3-content-info-text-name">Anne Liza</p>
-								<p class="block-3-content-info-text-job">Property Seller</p>
-							</div>
-							<div class="block-3-content-like">
-								<svg  class="block-3-content-like-icon">
-									<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
-								</svg>
+							<div class="block-3-content-info-wrap">
+								<div class="block-3-content-info-avatar">
+									<img src="" alt="">
+								</div>
+								<div class="block-3-content-info-text">
+									<p class="block-3-content-info-text-name">Anne Liza</p>
+									<p class="block-3-content-info-text-job">Property Seller</p>
+								</div>
+								<div class="block-3-content-like">
+									<svg  class="block-3-content-like-icon">
+										<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
+									</svg>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -198,27 +206,31 @@
 						<div class="block-3-content-card-image-rent button">For Rent</div>
 					</div>
 					<div class="block-3-content-card-info">
-						<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
-						<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
-						<div class="block-3-content-card-contain">
-							<p class="block-3-content-card-contain-text">3 Bedrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2 Bathrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2500 Square FT</p>
+						<div class="block-3-content-card-info-wrap">
+							<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
+							<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
+							<div class="block-3-content-card-contain">
+								<p class="block-3-content-card-contain-text">3 Bedrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2 Bathrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2500 Square FT</p>
+							</div>
 						</div>
 						<div class="block-3-content-info">
-							<div class="block-3-content-info-avatar">
-								<img src="" alt="">
-							</div>
-							<div class="block-3-content-info-text">
-								<p class="block-3-content-info-text-name">Anne Liza</p>
-								<p class="block-3-content-info-text-job">Property Seller</p>
-							</div>
-							<div class="block-3-content-like">
-								<svg  class="block-3-content-like-icon">
-									<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
-								</svg>
+							<div class="block-3-content-info-wrap">
+								<div class="block-3-content-info-avatar">
+									<img src="" alt="">
+								</div>
+								<div class="block-3-content-info-text">
+									<p class="block-3-content-info-text-name">Anne Liza</p>
+									<p class="block-3-content-info-text-job">Property Seller</p>
+								</div>
+								<div class="block-3-content-like">
+									<svg  class="block-3-content-like-icon">
+										<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
+									</svg>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -228,27 +240,31 @@
 						<div class="block-3-content-card-image-rent button">For Rent</div>
 					</div>
 					<div class="block-3-content-card-info">
-						<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
-						<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
-						<div class="block-3-content-card-contain">
-							<p class="block-3-content-card-contain-text">3 Bedrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2 Bathrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2500 Square FT</p>
+						<div class="block-3-content-card-info-wrap">
+							<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
+							<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
+							<div class="block-3-content-card-contain">
+								<p class="block-3-content-card-contain-text">3 Bedrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2 Bathrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2500 Square FT</p>
+							</div>
 						</div>
 						<div class="block-3-content-info">
-							<div class="block-3-content-info-avatar">
-								<img src="" alt="">
-							</div>
-							<div class="block-3-content-info-text">
-								<p class="block-3-content-info-text-name">Anne Liza</p>
-								<p class="block-3-content-info-text-job">Property Seller</p>
-							</div>
-							<div class="block-3-content-like">
-								<svg  class="block-3-content-like-icon">
-									<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
-								</svg>
+							<div class="block-3-content-info-wrap">
+								<div class="block-3-content-info-avatar">
+									<img src="" alt="">
+								</div>
+								<div class="block-3-content-info-text">
+									<p class="block-3-content-info-text-name">Anne Liza</p>
+									<p class="block-3-content-info-text-job">Property Seller</p>
+								</div>
+								<div class="block-3-content-like">
+									<svg  class="block-3-content-like-icon">
+										<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
+									</svg>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -258,27 +274,31 @@
 						<div class="block-3-content-card-image-rent button">For Rent</div>
 					</div>
 					<div class="block-3-content-card-info">
-						<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
-						<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
-						<div class="block-3-content-card-contain">
-							<p class="block-3-content-card-contain-text">3 Bedrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2 Bathrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2500 Square FT</p>
+						<div class="block-3-content-card-info-wrap">
+							<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
+							<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
+							<div class="block-3-content-card-contain">
+								<p class="block-3-content-card-contain-text">3 Bedrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2 Bathrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2500 Square FT</p>
+							</div>
 						</div>
 						<div class="block-3-content-info">
-							<div class="block-3-content-info-avatar">
-								<img src="" alt="">
-							</div>
-							<div class="block-3-content-info-text">
-								<p class="block-3-content-info-text-name">Anne Liza</p>
-								<p class="block-3-content-info-text-job">Property Seller</p>
-							</div>
-							<div class="block-3-content-like">
-								<svg  class="block-3-content-like-icon">
-									<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
-								</svg>
+							<div class="block-3-content-info-wrap">
+								<div class="block-3-content-info-avatar">
+									<img src="" alt="">
+								</div>
+								<div class="block-3-content-info-text">
+									<p class="block-3-content-info-text-name">Anne Liza</p>
+									<p class="block-3-content-info-text-job">Property Seller</p>
+								</div>
+								<div class="block-3-content-like">
+									<svg  class="block-3-content-like-icon">
+										<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
+									</svg>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -288,27 +308,31 @@
 						<div class="block-3-content-card-image-rent button">For Rent</div>
 					</div>
 					<div class="block-3-content-card-info">
-						<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
-						<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
-						<div class="block-3-content-card-contain">
-							<p class="block-3-content-card-contain-text">3 Bedrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2 Bathrooms</p>
-							<div class="block-3-content-card-contain-line"></div>
-							<p class="block-3-content-card-contain-text">2500 Square FT</p>
+						<div class="block-3-content-card-info-wrap">
+							<div class="block-3-content-card-prise"><span class="block-3-content-card-prise-marked">85,000 LKR</span>/Month</div>
+							<p class="block-3-content-card-title">Luxury villa in Rego Park</p>
+							<div class="block-3-content-card-contain">
+								<p class="block-3-content-card-contain-text">3 Bedrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2 Bathrooms</p>
+								<div class="block-3-content-card-contain-line"></div>
+								<p class="block-3-content-card-contain-text">2500 Square FT</p>
+							</div>
 						</div>
 						<div class="block-3-content-info">
-							<div class="block-3-content-info-avatar">
-								<img src="" alt="">
-							</div>
-							<div class="block-3-content-info-text">
-								<p class="block-3-content-info-text-name">Anne Liza</p>
-								<p class="block-3-content-info-text-job">Property Seller</p>
-							</div>
-							<div class="block-3-content-like">
-								<svg  class="block-3-content-like-icon">
-									<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
-								</svg>
+							<div class="block-3-content-info-wrap">
+								<div class="block-3-content-info-avatar">
+									<img src="" alt="">
+								</div>
+								<div class="block-3-content-info-text">
+									<p class="block-3-content-info-text-name">Anne Liza</p>
+									<p class="block-3-content-info-text-job">Property Seller</p>
+								</div>
+								<div class="block-3-content-like">
+									<svg  class="block-3-content-like-icon">
+										<use xlink:href="<?php echo get_template_directory_uri() ?>/assets/img/icons/sprite.svg#heart"></use>
+									</svg>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -316,6 +340,7 @@
 				
 
 			</div>
+			<button class="block-3-button button marked-button">Load More</button>
 		</div>
 	</div>
 </body>
